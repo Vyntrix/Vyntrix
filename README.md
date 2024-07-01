@@ -26,12 +26,14 @@
 
 #### 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚝𝚘𝚘𝚕𝚜 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-ff3e00?style=flat&logo=svelte&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/Javascript%20-%23323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML_5%20-%23E34F26.svg?&style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS_3%20-%231572B6.svg?&style=flat&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS%20-%230f172a.svg?&style=flat&logo=tailwindcss&logoColor=%2338bdf8)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=white)
 ![Git](https://img.shields.io/badge/Git%20-%23F05033.svg?&style=flat&logo=git&logoColor=white)
 ![Mongo](https://img.shields.io/badge/MongoDB-%23f7f7f7.svg?style=flat&logo=mongodb&logoColor=%23429543)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
