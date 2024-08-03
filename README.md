@@ -2,7 +2,7 @@
 
 ### I'm a **Full Stack Developer** living in **Hamburg, Germany**.
 
-- 🙎🏻‍♂️ I'm currently working on a **Shop Management** project.
+- 🙎🏻‍♂️ I'm currently working on a link sharing project for developers.
 - ✨ Pronouns He/Him
 - 🤝 I'm free to help with any project (Focused on **Frontend**)
 
