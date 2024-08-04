@@ -27,7 +27,7 @@
 #### 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚝𝚘𝚘𝚕𝚜 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 ![Svelte](https://img.shields.io/badge/Svelte-ff3e00?style=flat&logo=svelte&logoColor=white)
-![Pocketbase](https://img.shields.io/badge/Pocketbase-fff?style=flat&logo=pocketbase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-fff?style=flat&logo=supabase&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS%20-%230f172a.svg?&style=flat&logo=tailwindcss&logoColor=%2338bdf8)
 ![GO](https://img.shields.io/badge/Golang-fff?style=flat&logo=go)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
